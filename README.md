@@ -1,4 +1,4 @@
-# Testmo Clone
+#Jio testcase management system
 
 This is a full-stack project structure for a Test Case Management System.
 
